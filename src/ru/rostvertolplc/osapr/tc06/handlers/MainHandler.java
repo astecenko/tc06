@@ -20,7 +20,8 @@ import org.eclipse.jface.dialogs.*;
 import org.eclipse.ui.IWorkbenchWindow;
 import org.eclipse.ui.handlers.HandlerUtil;
 
-import ru.rostvertolplc.osapr.tc06.components.*;
+import ru.rostvertolplc.osapr.tc06.components.MsgsList;
+import ru.rostvertolplc.osapr.forms.ShowInfoDialog;
 
 public class MainHandler extends AbstractHandler {
 
